@@ -9,7 +9,7 @@ This Chat Backend server provides chat services with different users using Socke
 
 Install socket-chat-backend with npm
 
-Make sure you have [Node.js](https://nodejs.org/en) CLI installed. Checkout the sample [app](https://github.com/Edugem-Technologies/socket-chat-rn) which configured this server.
+Make sure you have [Node.js](https://nodejs.org/en) CLI installed. Checkout the sample [app](https://github.com/ravipatel2205/ChatAppReactNative) which configured this server.
 
 ```bash
 $ git clone https://github.com/Edugem-Technologies/socket-chat-backend.git # or clone your own fork
