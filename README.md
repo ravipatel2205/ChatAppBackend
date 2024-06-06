@@ -12,8 +12,8 @@ Install socket-chat-backend with npm
 Make sure you have [Node.js](https://nodejs.org/en) CLI installed. Checkout the sample [app](https://github.com/ravipatel2205/ChatAppReactNative) which configured this server.
 
 ```bash
-$ git clone https://github.com/Edugem-Technologies/socket-chat-backend.git # or clone your own fork
-$ cd socket-chat-backend
+$ git clone git@github.com:ravipatel2205/ChatAppBackend.git # or clone your own fork
+$ cd ChatAppBackend
 $ npm install
 ```
 
@@ -24,7 +24,7 @@ $ npm install
 
 #### Start server 
 ```bash
-$ cd socket-chat-backend
+$ cd ChatAppBackend
 $ npm start
 ```
 
